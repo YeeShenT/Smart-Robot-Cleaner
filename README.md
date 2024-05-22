@@ -8,3 +8,4 @@ The algorithm is written purely with planning algorithm. The specific algiorithm
 
 Please view the video 'simulated_video.mkv' for the simulated result.
 
+Please email me at yeeshenteoh15@gmail.com if there is any bugs or error in the code. Thank you!
